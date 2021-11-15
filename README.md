@@ -133,3 +133,4 @@ Project Link: [https://github.com/TomatoALT/ZClientWin](https://github.com/Tomat
 [issues-shield]: https://img.shields.io/github/issues/TomatoALT/ZClientWin.svg?style=for-the-badge
 [issues-url]: https://github.com/TomatoALT/ZClientWin/issues
 [license-shield]: https://img.shields.io/github/license/TomatoALT/ZClientWin.svg?style=for-the-badge
+[license-url]: https://github.com/TomatoALT/ZClientWin/blob/b7870f555e191e55e1d6c4c5e9483be60ca52807/LICENSE
