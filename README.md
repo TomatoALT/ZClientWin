@@ -83,7 +83,7 @@ Make sure you have Windows 10 installed. Windows 11 will not work
 
 ### Installation
 
-1. Download the setup file from [Releases](https://github.com/TomatoALT/ZClientWin/releases)
+1. Download the correct installation process for your machine i.E(x64 x32, or regular install) setup file from [Releases](https://github.com/TomatoALT/ZClientWin/releases)
 
 2. Run the setup exe
 
