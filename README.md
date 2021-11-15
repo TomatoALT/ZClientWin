@@ -106,7 +106,7 @@ See [License](https://github.com/TomatoALT/ZClientWin/blob/b7870f555e191e55e1d6c
 
 Discord - [https://discord.gg/S4BQmSPXC5](https://discord.gg/S4BQmSPXC5)
 
-Project Link: [https://github.com/TomatoALT/ZClientWin](https://github.com/TomatoALT/ZClientWin)
+Project Link - [https://github.com/TomatoALT/ZClientWin](https://github.com/TomatoALT/ZClientWin)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
