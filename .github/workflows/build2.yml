@@ -1,0 +1,28 @@
+name: Build Zyme Client
+
+on: push
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [macos-latest, windows-latest]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build and release if draft exists
+        run: npm run dist
+        env:
+          GH_TOKEN: ${{ secrets.github_token }}
